@@ -1,6 +1,7 @@
 # DOM-Project-1
 
 
+
 ## Instructions
 You will create The JS needed for a shopping cart  to be fully fonctionnel
 

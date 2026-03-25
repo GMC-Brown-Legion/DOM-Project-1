@@ -1,6 +1,6 @@
 # DOM-Project-1
 
-
+I added the JS functionality and also made some small changes in the index file since I wsa encountering and error where i could't access the css and assets when i open index.html but when I use live server, it works. So i removed the slash in the source paths.
 
 ## Instructions
 You will create The JS needed for a shopping cart  to be fully fonctionnel
